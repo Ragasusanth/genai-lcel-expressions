@@ -94,7 +94,7 @@ for ex in examples:
 ```
 ### OUTPUT:
 
-![alt Image](https://github.com/user-attachments/assets/7811609e-857a-4330-9628-1fde46d6fe7d)
+![alt text](image.png)
 
 ### RESULT:
 
