@@ -96,6 +96,7 @@ for ex in examples:
 
 ![alt text](image.png)
 
+
 ### RESULT:
 
 Thus, the LangChain Expression Language (LCEL) expression that utilizes two prompt parameters and three key components (prompt, model, and output parser) was designed and implemented successfully. And also evaluated its functionality by analyzing relevant examples of its application in real-world scenarios.
