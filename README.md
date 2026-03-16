@@ -93,7 +93,7 @@ for ex in examples:
 ```
 ### OUTPUT:
 
-
+![image alt](https://github.com/Ragasusanth/genai-lcel-expressions/blob/3da771ca8c6dd170f67c33c8c7170cbf4d0346b4/image.png)
 
 ### RESULT:
 
